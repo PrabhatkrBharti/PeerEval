@@ -2,23 +2,7 @@
 
 ## Overview
 
-This repository contains the dataset, code, and supplementary materials for the paper "PeerEval: Estimating Informativeness in Peer Review through Paper-Review Interaction." This research introduces a novel metric to evaluate the informativeness of peer reviews, addressing various factors such as coverage, comprehensiveness, critique strength, and clarity. The paper proposes a computational framework leveraging techniques like lexical analysis, cross-attention mechanisms, Bi-LSTM modeling, and abstractive summarization to automate this evaluation process.
-
-## Authors
-
-- **Prabhat Kumar Bharti** (Department of Computer Science and Engineering, IIT Patna, Bihta Kanpa Road, Patna, Bihar, India)
-
-## Abstract
-
-Peer review is crucial for maintaining the quality, credibility, and integrity of research. However, challenges like bias, conflicts of interest, and inconsistency compromise its reliability. This study introduces a metric to evaluate peer review informativeness based on factors such as section coverage, comprehensiveness, critique strength, and clarity. The proposed computational framework uses lexical analysis, cross-attention mechanisms, Bi-LSTM modeling, and abstractive summarization to automate the evaluation process, aiming to reduce the manual burden on editors and uphold review integrity.
-
-## Keywords
-
-- Peer review
-- Content analysis
-- Review quality
-- Informativeness metric
-- Computational framework
+This repository contains the dataset, code, and supplementary materials for the paper "PeerEval: Estimating Informativeness in Peer Review through Paper-Review Interaction." This research introduces a novel metric to evaluate the informativeness of peer reviews.
 
 ## Repository Contents
 
